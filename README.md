@@ -27,7 +27,6 @@ Any Java IDE (Integrated Development Environment) like IntelliJ IDEA, Eclipse, o
 MySql DataBase + workBench for windows , mac users.
 MariaDB for linux users
 Installation
-Clone the repository to your local machine: https://github.com/Preet121106/guvi-java-prj.git
 
 
 Open the project in your IDE, resolve any dependencies, and run the Splash.java then login page will appear after 7 seconds if successful then Project.java file will open to launch the application.
