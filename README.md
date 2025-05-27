@@ -31,7 +31,9 @@ Before running the University Management System, ensure you have the following i
 - MariaDB for linux users
 
 ### Installation
+Clone the repository to your local machine: https://github.com/nomoreanki
 
+gh repo clone nomoreanki - Guvi Java Project
 
 Open the project in your IDE, resolve any dependencies, and run the Splash.java then login page will appear after 7 seconds if successful then Project.java file  will open to launch the application.
 
